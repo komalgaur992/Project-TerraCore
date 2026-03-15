@@ -6,7 +6,7 @@ Project TerraCore is an Infrastructure as Code (IaC) project built using Terrafo
 
 ## 🎥 Proof of Work (Live Demo)
 
-**[Watch the AWS Console Architecture Demo Here] ->** _(Yahan apna Google Drive/YouTube video ka link paste karna)_
+**[Watch the AWS Console Architecture Demo Here] ->** https://drive.google.com/file/d/1w3XDi6S6WrCCKNF3hGauo3rCk3YsvhZ4/view?usp=sharing
 
 ## 🏗️ Architecture Design
 
